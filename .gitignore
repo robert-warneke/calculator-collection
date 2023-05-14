@@ -1,0 +1,51 @@
+# Python distributions
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# SQLite
+*.sqlite
+
+# pytest
+.pytest_cache/
+
+# Windows
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python artifacts
+*.pyc
+*pyo
+*~
+__pycache__/
+
+# Logs
+logs
+*.log
